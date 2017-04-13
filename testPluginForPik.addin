@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <RevitAddIns>
+    <AddIn Type="Command">
+      <Assembly>D:\rh\_projects\Revit\TestPluginForPIK\TestPluginForPIK\bin\Debug\TestPluginForPIK.dll</Assembly>
+      <ClientId>cb3dcfae-2252-4385-a857-f35c6383ba30</ClientId>
+      <FullClassName>TestPluginForPIK</FullClassName>
+      <Text>TestPluginForPik</Text>
+      <VendorId>RHANZA</VendorId>
+      <VisibilityMode>AlwaysVisible</VisibilityMode>
+    </AddIn>
+  </RevitAddIns>
